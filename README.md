@@ -7,3 +7,4 @@ Below are list of features of RFM Calculator:
 - Get user waist circumference
 - Calculate for male and female
 - Display results of RFM and the interpretion
+Please use the latest version of the RFM Calculator (RFM_Calculator_latest.aia), V1 will serve as base model and backup.
