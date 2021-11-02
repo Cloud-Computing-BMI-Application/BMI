@@ -26,7 +26,8 @@ a)google appscript(for linking appinventor and google sheet)
 <H2>4.Version Control</H2>
 Git Bash is utilized for version control, main will be the main source code all features for the application, 
 other branches will have source code for specific feature of app,(each commit have history)
-Github Release feature is used to document version , for each release feature(for more info check at release on right hand side of homepage)
+Github Release feature is used to document version , for each release feature, with a final released version v6.0
+(for more info refer to Release feature on right hand side of repository homepage)
 </pre>
 
 
