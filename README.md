@@ -16,11 +16,14 @@ e) release app
 a)MIT appinventor
 b)MIT AI companion app(for testing at mobile phone)
 c)Git Bash
-d)google sheet(for database)
+d)google sheet(for database)https://docs.google.com/spreadsheets/d/1yr-CeDUnTV_cnsqBO5idRnd5AQh9ENZzOlRX9HkTK84/edit#gid=0
 </pre>
 <pre>
 <H2>3.API</H2>
 a)google appscript(for linking appinventor and google sheet)
+BMI:https://script.google.com/u/1/home/projects/1rP0Rxwp4quJXQRje1JHwZQtU-ylUmTTM-zUAGdCoaQfjhG3m2pvTKpdL/edit
+RFM:https://script.google.com/home/projects/1Z1CRD_AxqWrEXUaFnDlMpvVwljOH94iagxtomf7Yc3CiKORKZsllPONd/edit
+
 </pre>
 <pre>
 <H2>4.Version Control</H2>
