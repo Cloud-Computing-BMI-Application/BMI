@@ -1,5 +1,12 @@
 Usage Manual
 =====
+<h2>Installation</h2>
+User can install the Firefly_final.apk available in the main branch or in the latest release at your mobile phone or virtual machine.
+
+User can also use this zip file for installation (apk only): [Firefly_final.zip](https://github.com/Cloud-Computing-BMI-Application/BMI/files/7459432/Firefly_final.zip)
+
+
+<h2>Main Page</h2>
 User will be directed to the Main Page when starting the application.
 
 The following buttons are available on the top of the application:
