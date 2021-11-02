@@ -8,8 +8,8 @@ c) create database for bmi
 d) create rfm calculator and database
 e) create chart(pie ,bar , line chart)
 f) enhance User Interface
-d)final testing 
-e)release app
+d) final testing 
+e) release app
 </pre>
 <pre>
 <H2>2. Software/Platform</H2>
