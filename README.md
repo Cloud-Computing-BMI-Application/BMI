@@ -1,6 +1,6 @@
 Description
 ====== 
-
+<pre>
 1. Implementation of apps
 a) research and study on related tutorial and videos
 b) brainstorm on new feature for app
@@ -10,6 +10,7 @@ e) create chart(pie ,bar , line chart)
 f) enhance User Interface
 d)final testing 
 e)release app
+</pre>
 
 2. software/platform
 a)MIT appinventor
