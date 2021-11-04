@@ -15,7 +15,7 @@ e) release app
 <H2>2. Software/Platform</H2>
 a)MIT appinventor
 b)MIT AI companion app(for testing at mobile phone)
-c)Git Bash
+c)Git 
 d)google sheet(for database)https://docs.google.com/spreadsheets/d/1yr-CeDUnTV_cnsqBO5idRnd5AQh9ENZzOlRX9HkTK84/edit#gid=0
 </pre>
 <pre>
@@ -27,7 +27,7 @@ RFM:https://script.google.com/home/projects/1Z1CRD_AxqWrEXUaFnDlMpvVwljOH94iagxt
 </pre>
 <pre>
 <H2>4.Version Control</H2>
-Git Bash is utilized for version control, main will be the main source code all features for the application, 
+Git is utilized for version control, main will be the main source code all features for the application, 
 other branches will have source code for specific feature of app,(each commit have history)
 Github Release feature is used to document version , for each release feature, with a final released version v6.0
 (for more info refer to Release feature on right hand side of repository homepage)
